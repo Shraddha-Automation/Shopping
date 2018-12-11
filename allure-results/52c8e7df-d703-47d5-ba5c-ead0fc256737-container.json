@@ -1,0 +1,1 @@
+{"uuid":"52c8e7df-d703-47d5-ba5c-ead0fc256737","name":"Amazon.Shopping.AppTest","start":1544549226903,"stop":1544549263112,"children":["a79612a3-e800-40f3-a0f1-1a7a5918093e"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","start":1544549226953,"stop":1544549248677}]}
